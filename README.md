@@ -1,8 +1,4 @@
-# mozilla-firefox-python
-Mozilla Firefox browser in python using os
-
-
-# Mozilla Fire python
+# Mozilla Firefox python
 Mozilla Firefox browser in python
 
 Replit: [3kh0/Firefox-browser](https://replit.com/@3kh0/Firefox-browser)
